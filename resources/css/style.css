@@ -5,8 +5,10 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size:50px;
 }
 
-h1{
+.header-main{
     color:white;
+    font-weight:normal;
+    font-size: 50px;
 }
 
 a{
