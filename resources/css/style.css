@@ -5,11 +5,26 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size:50px;
 }
 
+/* HEADINGS */
+
 .header-main{
     color:white;
     font-weight:normal;
     font-size: 50px;
 }
+
+.header-middle{
+    font-weight: 300px;
+    font-size: 42px;
+    color: white;
+}
+
+.p-middle{
+    color:gray;
+    font-size:21px;
+}
+
+/* LINKS */
 
 .link-cta{
     color: aquamarine;
